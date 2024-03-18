@@ -1,0 +1,12 @@
+[
+    {"name": "park", "age":35, 
+    "job": "snsmarketing", "lang":"React", "pay":3300},
+
+    {"name": "john", "age":45, 
+    "job": "bookstore", "lang":"java", "pay":5200},
+
+    {"name": "kim", "age":56, 
+    "job": "frontend", "lang":"css", "pay":4300}
+    
+
+]
